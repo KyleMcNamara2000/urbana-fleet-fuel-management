@@ -19,5 +19,5 @@ Are there trends that suggest that certain gas stations are more or less expensi
 
 | Dataset | Description | Link |
 | --------- | ----------- | ---- |
-| Fuel card data | List of credit card transactions with price and location for City of Urbana fleet | TBD |
+| Fuel card data | List of credit card transactions with price and location for City of Urbana fleet | fuel_card_export.csv |
 | Gas Buddy charts | Local gas price data | https://www.gasbuddy.com/Charts |
